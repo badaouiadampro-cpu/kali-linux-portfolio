@@ -28,8 +28,8 @@ const apps = [
         screen: displayTerminalCalc,
     },
     {
-        id: "about-aslam",
-        title: "About Aslam",
+        id: "about-adam",
+        title: "À propos d’Adam",
         icon: './themes/Yaru/system/mc-home-logo.png',
         disabled: false,
         favourite: true,
@@ -83,7 +83,7 @@ const apps = [
     },
     {
         id: "gedit",
-        title: "Contact Me",
+        title: "Contact",
         icon: './themes/Yaru/apps/gedit.png',
         disabled: false,
         favourite: false,
